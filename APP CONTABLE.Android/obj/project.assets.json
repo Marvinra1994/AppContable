@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\APP CONTABLE\\APP CONTABLE.Android\\APP CONTABLE.Android.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\GitHub\\AppContable\\APP CONTABLE.Android\\APP CONTABLE.Android.csproj",
       "projectName": "APP CONTABLE.Android",
-      "projectPath": "C:\\Users\\DELL\\source\\repos\\APP CONTABLE\\APP CONTABLE.Android\\APP CONTABLE.Android.csproj",
+      "projectPath": "C:\\Users\\DELL\\Documents\\GitHub\\AppContable\\APP CONTABLE.Android\\APP CONTABLE.Android.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\APP CONTABLE\\APP CONTABLE.Android\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Documents\\GitHub\\AppContable\\APP CONTABLE.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\DELL\\source\\repos\\APP CONTABLE\\APP CONTABLE\\APP CONTABLE.csproj": {
-              "projectPath": "C:\\Users\\DELL\\source\\repos\\APP CONTABLE\\APP CONTABLE\\APP CONTABLE.csproj"
+            "C:\\Users\\DELL\\Documents\\GitHub\\AppContable\\APP CONTABLE\\APP CONTABLE.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Documents\\GitHub\\AppContable\\APP CONTABLE\\APP CONTABLE.csproj"
             }
           }
         }

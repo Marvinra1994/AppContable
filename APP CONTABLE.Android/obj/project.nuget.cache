@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MUOG86W3QDLA6oUWSVGtToXclwxs8AlqaDPp5MMzI9PjfHRqfAWw09oJis4uDSksRZz8bpdRS5+3ufwi/wLSlw==",
+  "dgSpecHash": "WuzOzgaN+PhmTUcKHs22FsLNdwSvN1nPeeSMnc4vF0txcM3CpbuFBDW3ShbPLZKFSY64OdoZW1cawcsrbVzDMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\APP CONTABLE\\APP CONTABLE.Android\\APP CONTABLE.Android.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\GitHub\\AppContable\\APP CONTABLE.Android\\APP CONTABLE.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
