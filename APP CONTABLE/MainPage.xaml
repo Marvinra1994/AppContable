@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:APP_CONTABLE.Views"
+             x:Class="APP_CONTABLE.MainPage">
+
+
+    <local:InfoPersona></local:InfoPersona>
+    <local:InfoIngresos></local:InfoIngresos>
+    <local:InfoEgresos></local:InfoEgresos>
+
+</TabbedPage>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:APP_CONTABLE.ViewModels"
+             x:Class="APP_CONTABLE.Views.InfoIngresos">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Tipo de Ingreso"></Label>
+            <Entry Text="{Binding tipo_ingreso}" Keyboard="Text"></Entry>
+            <Label Text="Cantidad de Ingreso"></Label>
+            <Entry Text="{Binding cantidad_ingreso}" Keyboard="Text"></Entry>
+            <DatePicker Date="{Binding fecha_ingreso}" ></DatePicker>
+
+            <Button Text="Guardar" Command="{Binding CrearIngreso}"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

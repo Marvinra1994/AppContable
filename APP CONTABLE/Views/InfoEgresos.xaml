@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="APP_CONTABLE.Views.InfoEgresos" 
+             xmlns:local="clr-namespace:APP_CONTABLE.View_Models">
+             
+
+    <ContentPage.BindingContext>
+        <local:ViewModelsEgresos></local:ViewModelsEgresos>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Tipo de Ingreso"></Label>
+            <Entry Text="{Binding tipo_egresos}" Keyboard="Text"></Entry>
+            <Label Text="Cantidad de Ingreso"></Label>
+            <Entry Text="{Binding cantidad_egreso}" Keyboard="Text"></Entry>
+            <DatePicker Date="{Binding Fecha_egreso}" ></DatePicker>
+
+            <Button Text="Guardar" Command="{Binding CrearEgreso}"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

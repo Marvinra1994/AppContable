@@ -1,0 +1,18 @@
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\bin\Debug\netstandard2.0\APP CONTABLE.deps.json
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\bin\Debug\netstandard2.0\APP CONTABLE.dll
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\bin\Debug\netstandard2.0\APP CONTABLE.pdb
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\obj\Debug\netstandard2.0\APP CONTABLE.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\obj\Debug\netstandard2.0\APP CONTABLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\obj\Debug\netstandard2.0\Views\InfoEgresos.xaml.g.cs
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\obj\Debug\netstandard2.0\Views\InfoIngresos.xaml.g.cs
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\obj\Debug\netstandard2.0\Views\InfoPersona.xaml.g.cs
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\obj\Debug\netstandard2.0\APP CONTABLE.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\obj\Debug\netstandard2.0\APP CONTABLE.AssemblyInfo.cs
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\obj\Debug\netstandard2.0\APP CONTABLE.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\obj\Debug\netstandard2.0\APP CONTABLE.dll
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\obj\Debug\netstandard2.0\refint\APP CONTABLE.dll
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\obj\Debug\netstandard2.0\APP CONTABLE.pdb
+C:\Users\DELL\source\repos\APP CONTABLE\APP CONTABLE\obj\Debug\netstandard2.0\ref\APP CONTABLE.dll
