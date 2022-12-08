@@ -2,10 +2,11 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:APP_CONTABLE.ViewModels"
-             x:Class="APP_CONTABLE.Views.InfoPersona">
+             x:Class="APP_CONTABLE.Views.InfoPersona"
+             IconImageSource="usuario.png">
     <ContentPage.Content>
         <StackLayout>
-            <Image Source="https://sites.google.com/site/ceutecsap01/_/rsrc/1441668710669/ceutec-logo/cuetce.jpg"></Image>
+            <Image Source="https://www.liderdelemprendimiento.com/wp-content/uploads/2018/02/Contabilidad-3000x2178.jpg"></Image>
 
             <Label Text="Nombre"></Label>
             <Entry Text="{Binding Nombre}" Keyboard="Text"></Entry>

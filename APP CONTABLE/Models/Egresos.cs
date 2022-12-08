@@ -5,7 +5,7 @@ using System.Text;
 namespace APP_CONTABLE.Models
 {
     [Serializable]
-    public class Egresos
+    public class Egresos : Ingresos
     {
         public string tipo_egreso { get; set; }
         public double cantidad_egreso { get; set; }

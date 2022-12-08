@@ -14,18 +14,9 @@ namespace APP_CONTABLE.Models
 
         public ObservableCollection<Ingresos> lista_ingresos { get; set; } = new ObservableCollection<Ingresos>();
         public ObservableCollection<Egresos> lista_egresos { get; set; } = new ObservableCollection<Egresos>();
+        public ObservableCollection<Balance> lista_balance { get; set; } = new ObservableCollection<Balance>();
 
-        public void sumaingresos()
-        {
-            double suma = 0;
-
-            foreach (Ingresos cantidad in lista_ingresos)
-            {
-                suma += cantidad.cantidad_ingreso;
-
-            }
-
-        }
+       
 
     }
 }

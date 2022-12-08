@@ -2,7 +2,8 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="APP_CONTABLE.Views.InfoEgresos" 
-             xmlns:local="clr-namespace:APP_CONTABLE.View_Models">
+             xmlns:local="clr-namespace:APP_CONTABLE.View_Models"
+             IconImageSource="reducir.png">
              
 
     <ContentPage.BindingContext>

@@ -8,5 +8,6 @@
     <local:InfoPersona></local:InfoPersona>
     <local:InfoIngresos></local:InfoIngresos>
     <local:InfoEgresos></local:InfoEgresos>
+    <local:Balance></local:Balance>
 
 </TabbedPage>

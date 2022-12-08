@@ -5,11 +5,25 @@ using System.Text;
 namespace APP_CONTABLE.Models
 {
     [Serializable]
-    internal class Balance
+    public class Balance : Egresos
     {
-        public double total_ingresos { get; set; }
-        public double total_egresos { get; set; }
-        public double saldo { get; set; }
+
+        public double saldo_inicial {get; set; }
+        public double saldo_final {get; set; }
+
+
+
+        public void calcula_balance()
+        {
+            saldo_final = saldo_inicial + cantidad_ingreso - (cantidad_egreso);
+        }
+
+        public new string toString()
+        {
+
+            return "Su saldo final es: " + saldo_final;
+        }
+
 
     }
 }
